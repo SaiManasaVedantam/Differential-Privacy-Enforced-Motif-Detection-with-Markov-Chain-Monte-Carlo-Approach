@@ -9,8 +9,9 @@ Learning patterns from data to identify Motifs helps in biomedical research to i
 ## Execution
 #### For the working system
 1. dna_data_generation_and_differential_privacy.ipynb to generate datasets containing 1000, 5000, 10000, 50000, 100000 records
-2. markov_chain_monte_carlo.ipynb to implement MCMC's Gibbs sampling for motif detection and to make a preliminary analysis
+2. mcmc_gibbs.ipynb to implement MCMC's Gibbs sampling for motif detection and to make a preliminary analysis
 3. gibbs_application_covid_detection.ipynb to detect COVID 19 using DNA motifs
+4. Use the functions from file_io.ipynb, visualization.ipynb & info_content_ops.ipynb for utility functions.
 
 #### For extended analysis
 1. gibbs_motif_length_analysis.ipynb to analyze "Fixed information content → Different motif length & datasets"
